@@ -10,14 +10,14 @@ I work at the intersection of **EEG, signal processing, machine learning, and BC
 
 `EEG` · `Neural Decoding` · `Motor Imagery` · `P300 / SSVEP` · `Deep Learning` · `Real-Time BCI`
 
-**Current Work**
+**Currently Exploring**
 
 * Cross-subject EEG representation & decoding
 * Self-supervised learning for neural signals
 * Real-time BCI pipelines & inference
 * Bridging research prototypes with real-world EEG hardware
 
-**Selected Research**
+**Selected Work**
 
 🧠 **Neural Decoding** — EEGNet · Transformers · GNNs · Riemannian methods
 ⚡ **BCI Systems** — LSL · ONNX · real-time inference · interactive interfaces
@@ -33,4 +33,4 @@ I value reproducibility, rigorous evaluation, and understanding **why** a model 
 
 **BCI Research & Engineering**
 
-[GitHub](https://github.com/BurhanxGodhra) · [LinkedIn](https://www.linkedin.com/in/burhanuddin-godhra-5a4376265/) 
+[GitHub](https://github.com/BurhanxGodhra) · [LinkedIn](https://www.linkedin.com/in/burhanuddin-godhra-5a4376265/)
