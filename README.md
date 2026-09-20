@@ -13,12 +13,15 @@ My work has evolved from software and machine learning into **neural decoding an
 ### What I Work On
 
 **Neural Signals**
+
 `EEG` · `Motor Imagery` · `P300` · `SSVEP` · `Signal Processing`
 
 **Machine Learning**
+
 `Deep Learning` · `EEGNet` · `Transformers` · `GNNs` · `Riemannian Methods`
 
 **BCI Systems**
+
 `LSL` · `ONNX` · `Real-Time Inference` · `Neural Interfaces`
 
 ---
